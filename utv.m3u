@@ -1,0 +1,10 @@
+#EXTM3U x-tvg-url="https://epg.tomhm.cc.cd/all.xml.gz"
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://tvlogo-282.pages.dev/logos/凤凰资讯.png" group-title="utv",凤凰资讯台
+http://192.168.3.100:8899/channel/1685677773164578006/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://tvlogo-282.pages.dev/logos/凤凰中文.png" group-title="utv",凤凰中文台
+http://192.168.3.100:8899/channel/1608285342287698006/index.m3u8
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://tvlogo-282.pages.dev/logos/凤凰香港.png" group-title="utv",凤凰香港台
+http://192.168.3.100:8899/channel/1608285422787728006/index.m3u8
+#EXTINF:-1 tvg-id="HOY資訊台" tvg-name="HOY資訊台" tvg-logo="https://my-tvlogo.pages.dev/logos/HOY/HOY.png" group-title="utv",HOY資訊台
+http://192.168.3.100:8899/channel/1568275619470108006/index.m3u8
+
